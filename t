@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+echo 'Policija trenira strogocu'
 
 echo 'Pristao sam bicu igracka'
 
