@@ -9,6 +9,7 @@ echo 'Prodajem dusu vragu svome'
 echo 'i ostace samo crna tacka'
 
 
+echo 'mdfnvmfvnmfvncmvnmvnmnc'
 mkdir new_folder
 
 
